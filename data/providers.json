@@ -1,0 +1,92 @@
+[
+  {
+    "id": 101,
+    "clinic_id": 1,
+    "name": "K. Wilson #1",
+    "npi": "1043321819"
+  },
+  {
+    "id": 102,
+    "clinic_id": 1,
+    "name": "G. Brown #2",
+    "npi": "0013389083"
+  },
+  {
+    "id": 103,
+    "clinic_id": 1,
+    "name": "K. Wilson #3",
+    "npi": "8637940265"
+  },
+  {
+    "id": 104,
+    "clinic_id": 2,
+    "name": "E. Garcia #4",
+    "npi": "2351161559"
+  },
+  {
+    "id": 105,
+    "clinic_id": 2,
+    "name": "E. Garcia #5",
+    "npi": "0781618495"
+  },
+  {
+    "id": 106,
+    "clinic_id": 3,
+    "name": "J. Davis #6",
+    "npi": "3103413164"
+  },
+  {
+    "id": 107,
+    "clinic_id": 3,
+    "name": "H. Kim #7",
+    "npi": "5255341928"
+  },
+  {
+    "id": 108,
+    "clinic_id": 3,
+    "name": "D. Lee #8",
+    "npi": "2764835030"
+  },
+  {
+    "id": 109,
+    "clinic_id": 4,
+    "name": "F. Singh #9",
+    "npi": "6413953767"
+  },
+  {
+    "id": 110,
+    "clinic_id": 4,
+    "name": "C. Johnson #10",
+    "npi": "4238849696"
+  },
+  {
+    "id": 111,
+    "clinic_id": 5,
+    "name": "F. Singh #11",
+    "npi": "3287101226"
+  },
+  {
+    "id": 112,
+    "clinic_id": 5,
+    "name": "J. Davis #12",
+    "npi": "1669784801"
+  },
+  {
+    "id": 113,
+    "clinic_id": 5,
+    "name": "K. Wilson #13",
+    "npi": "8451462704"
+  },
+  {
+    "id": 114,
+    "clinic_id": 6,
+    "name": "I. Clark #14",
+    "npi": "2814893252"
+  },
+  {
+    "id": 115,
+    "clinic_id": 6,
+    "name": "I. Clark #15",
+    "npi": "8095701543"
+  }
+]

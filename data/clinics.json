@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Austin OT Clinic",
+    "lob": "HMO",
+    "profession": "OT",
+    "city": "Austin",
+    "state": "TX"
+  },
+  {
+    "id": 2,
+    "name": "Dallas Chiro Clinic",
+    "lob": "Medicare",
+    "profession": "Chiro",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  {
+    "id": 3,
+    "name": "Omaha PT Clinic",
+    "lob": "PPO",
+    "profession": "PT",
+    "city": "Omaha",
+    "state": "NE"
+  },
+  {
+    "id": 4,
+    "name": "Kansas City OT Clinic",
+    "lob": "HMO",
+    "profession": "OT",
+    "city": "Kansas City",
+    "state": "MO"
+  },
+  {
+    "id": 5,
+    "name": "Chicago Chiro Clinic",
+    "lob": "Medicare",
+    "profession": "Chiro",
+    "city": "Chicago",
+    "state": "IL"
+  },
+  {
+    "id": 6,
+    "name": "Denver PT Clinic",
+    "lob": "PPO",
+    "profession": "PT",
+    "city": "Denver",
+    "state": "CO"
+  }
+]

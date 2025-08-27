@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1001,
+    "clinic_id": 1,
+    "provider_id": 101,
+    "service_date": "2025-08-13",
+    "allowed_amount": 203.83,
+    "services_count": 6
+  },
+  {
+    "id": 1002,
+    "clinic_id": 4,
+    "provider_id": 109,
+    "service_date": "2025-03-09",
+    "allowed_amount": 282.74,
+    "services_count": 8
+  },
+  {
+    "id": 1003,
+    "clinic_id": 2,
+    "provider_id": 104,
+    "service_date": "2025-03-28",
+    "allowed_amount": 113.77,
+    "services_count": 4
+  },
+  {
+    "id": 1004,
+    "clinic_id": 1,
+    "provider_id": 102,
+    "service_date": "2025-01-19",
+    "allowed_amount": 253.09,
+    "services_count": 6
+  },
+  {
+    "id": 1005,
+    "clinic_id": 5,
+    "provider_id": 113,
+    "service_date": "2025-05-02",
+    "allowed_amount": 106.43,
+    "services_count": 3
+  },
+  {
+    "id": 1006,
+    "clinic_id": 4,
+    "provider_id": 110,
+    "service_date": "2025-08-10",
+    "allowed_amount": 69.69,
+    "services_count": 2
+  },
+  {
+    "id": 1007,
+    "clinic_id": 5,
+    "provider_id": 112,
+    "service_date": "2025-02-05",
+    "allowed_amount": 194.18,
+    "services_count": 4
+  },
+  {
+    "id": 1008,
+    "clinic_id": 2,
+    "provider_id": 104,
+    "service_date": "2025-04-15",
+    "allowed_amount": 187.77,
+    "services_count": 4
+  },
+  {
+    "id": 1009,
+    "clinic_id": 4,
+    "provider_id": 110,
+    "service_date": "2025-04-19",
+    "allowed_amount": 87.53,
+    "services_count": 3
+  },
+  {
+    "id": 1010,
+    "clinic_id": 5,
+    "provider_id": 113,
+    "service_date": "2025-02-10",
+    "allowed_amount": 124.81,
+    "services_count": 4
+  },
+  {
+    "id": 1011,
+    "clinic_id": 5,
+    "provider_id": 111,
+    "service_date": "2025-05-29",
+    "allowed_amount": 111.11,
+    "services_count": 3
+  },
+  {
+    "id": 1012,
+    "clinic_id": 4,
+    "provider_id": 109,
+    "service_date": "2025-06-21",
+    "allowed_amount": 211.24,
+    "services_count": 7
+  },
+  {
+    "id": 1013,
+    "clinic_id": 2,
+    "provider_id": 105,
+    "service_date": "2025-08-14",
+    "allowed_amount": 155.5,
+    "services_count": 4
+  },
+  {
+    "id": 1014,
+    "clinic_id": 6,
+    "provider_id": 114,
+    "service_date": "2025-06-20",
+    "allowed_amount": 146.45,
+    "services_count": 4
+  },
+  {
+    "id": 1015,
+    "clinic_id": 2,
+    "provider_id": 105,
+    "service_date": "2025-05-10",
+    "allowed_amount": 142.58,
+    "services_count": 5
+  },
+  {
+    "id": 1016,
+    "clinic_id": 3,
+    "provider_id": 106,
+    "service_date": "2025-07-09",
+    "allowed_amount": 159.16,
+    "services_count": 6
+  },
+  {
+    "id": 1017,
+    "clinic_id": 1,
+    "provider_id": 102,
+    "service_date": "2025-04-04",
+    "allowed_amount": 142.87,
+    "services_count": 3
+  },
+  {
+    "id": 1018,
+    "clinic_id": 6,
+    "provider_id": 114,
+    "service_date": "2025-03-02",
+    "allowed_amount": 186.94,
+    "services_count": 5
+  },
+  {
+    "id": 1019,
+    "clinic_id": 4,
+    "provider_id": 109,
+    "service_date": "2025-03-10",
+    "allowed_amount": 90.72,
+    "services_count": 3
+  },
+  {
+    "id": 1020,
+    "clinic_id": 4,
+    "provider_id": 110,
+    "service_date": "2025-03-20",
+    "allowed_amount": 122.79,
+    "services_count": 3
+  },
+  {
+    "id": 1021,
+    "clinic_id": 3,
+    "provider_id": 107,
+    "service_date": "2025-06-14",
+    "allowed_amount": 102.87,
+    "services_count": 3
+  },
+  {
+    "id": 1022,
+    "clinic_id": 3,
+    "provider_id": 107,
+    "service_date": "2025-06-05",
+    "allowed_amount": 120.49,
+    "services_count": 4
+  },
+  {
+    "id": 1023,
+    "clinic_id": 5,
+    "provider_id": 113,
+    "service_date": "2025-07-04",
+    "allowed_amount": 187.0,
+    "services_count": 5
+  },
+  {
+    "id": 1024,
+    "clinic_id": 1,
+    "provider_id": 103,
+    "service_date": "2025-03-18",
+    "allowed_amount": 285.41,
+    "services_count": 7
+  },
+  {
+    "id": 1025,
+    "clinic_id": 2,
+    "provider_id": 105,
+    "service_date": "2025-04-14",
+    "allowed_amount": 188.05,
+    "services_count": 5
+  },
+  {
+    "id": 1026,
+    "clinic_id": 4,
+    "provider_id": 109,
+    "service_date": "2025-05-11",
+    "allowed_amount": 217.94,
+    "services_count": 7
+  },
+  {
+    "id": 1027,
+    "clinic_id": 2,
+    "provider_id": 104,
+    "service_date": "2025-01-07",
+    "allowed_amount": 131.83,
+    "services_count": 4
+  },
+  {
+    "id": 1028,
+    "clinic_id": 4,
+    "provider_id": 110,
+    "service_date": "2025-04-13",
+    "allowed_amount": 123.45,
+    "services_count": 5
+  },
+  {
+    "id": 1029,
+    "clinic_id": 6,
+    "provider_id": 115,
+    "service_date": "2025-01-13",
+    "allowed_amount": 212.76,
+    "services_count": 5
+  },
+  {
+    "id": 1030,
+    "clinic_id": 4,
+    "provider_id": 110,
+    "service_date": "2025-08-01",
+    "allowed_amount": 369.42,
+    "services_count": 8
+  },
+  {
+    "id": 1031,
+    "clinic_id": 3,
+    "provider_id": 107,
+    "service_date": "2025-01-20",
+    "allowed_amount": 189.06,
+    "services_count": 6
+  },
+  {
+    "id": 1032,
+    "clinic_id": 2,
+    "provider_id": 104,
+    "service_date": "2025-01-17",
+    "allowed_amount": 199.06,
+    "services_count": 5
+  },
+  {
+    "id": 1033,
+    "clinic_id": 5,
+    "provider_id": 112,
+    "service_date": "2025-05-03",
+    "allowed_amount": 189.61,
+    "services_count": 5
+  },
+  {
+    "id": 1034,
+    "clinic_id": 3,
+    "provider_id": 107,
+    "service_date": "2025-05-05",
+    "allowed_amount": 174.98,
+    "services_count": 4
+  },
+  {
+    "id": 1035,
+    "clinic_id": 5,
+    "provider_id": 111,
+    "service_date": "2025-04-11",
+    "allowed_amount": 163.04,
+    "services_count": 5
+  },
+  {
+    "id": 1036,
+    "clinic_id": 4,
+    "provider_id": 110,
+    "service_date": "2025-02-24",
+    "allowed_amount": 229.33,
+    "services_count": 6
+  },
+  {
+    "id": 1037,
+    "clinic_id": 1,
+    "provider_id": 102,
+    "service_date": "2025-02-27",
+    "allowed_amount": 58.64,
+    "services_count": 2
+  },
+  {
+    "id": 1038,
+    "clinic_id": 4,
+    "provider_id": 109,
+    "service_date": "2025-05-25",
+    "allowed_amount": 153.07,
+    "services_count": 4
+  },
+  {
+    "id": 1039,
+    "clinic_id": 2,
+    "provider_id": 105,
+    "service_date": "2025-01-28",
+    "allowed_amount": 199.49,
+    "services_count": 6
+  },
+  {
+    "id": 1040,
+    "clinic_id": 6,
+    "provider_id": 114,
+    "service_date": "2025-01-27",
+    "allowed_amount": 202.69,
+    "services_count": 7
+  },
+  {
+    "id": 1041,
+    "clinic_id": 4,
+    "provider_id": 110,
+    "service_date": "2025-01-28",
+    "allowed_amount": 342.5,
+    "services_count": 8
+  },
+  {
+    "id": 1042,
+    "clinic_id": 6,
+    "provider_id": 115,
+    "service_date": "2025-03-24",
+    "allowed_amount": 173.0,
+    "services_count": 4
+  },
+  {
+    "id": 1043,
+    "clinic_id": 4,
+    "provider_id": 110,
+    "service_date": "2025-02-16",
+    "allowed_amount": 214.8,
+    "services_count": 7
+  },
+  {
+    "id": 1044,
+    "clinic_id": 6,
+    "provider_id": 115,
+    "service_date": "2025-05-06",
+    "allowed_amount": 157.65,
+    "services_count": 4
+  },
+  {
+    "id": 1045,
+    "clinic_id": 4,
+    "provider_id": 109,
+    "service_date": "2025-03-20",
+    "allowed_amount": 356.26,
+    "services_count": 9
+  },
+  {
+    "id": 1046,
+    "clinic_id": 3,
+    "provider_id": 106,
+    "service_date": "2025-01-31",
+    "allowed_amount": 72.03,
+    "services_count": 2
+  },
+  {
+    "id": 1047,
+    "clinic_id": 5,
+    "provider_id": 113,
+    "service_date": "2025-06-02",
+    "allowed_amount": 118.91,
+    "services_count": 4
+  },
+  {
+    "id": 1048,
+    "clinic_id": 1,
+    "provider_id": 103,
+    "service_date": "2025-03-16",
+    "allowed_amount": 116.5,
+    "services_count": 3
+  },
+  {
+    "id": 1049,
+    "clinic_id": 2,
+    "provider_id": 104,
+    "service_date": "2025-03-06",
+    "allowed_amount": 89.97,
+    "services_count": 3
+  },
+  {
+    "id": 1050,
+    "clinic_id": 2,
+    "provider_id": 104,
+    "service_date": "2025-05-23",
+    "allowed_amount": 264.87,
+    "services_count": 7
+  },
+  {
+    "id": 1051,
+    "clinic_id": 6,
+    "provider_id": 114,
+    "service_date": "2025-07-15",
+    "allowed_amount": 86.56,
+    "services_count": 3
+  },
+  {
+    "id": 1052,
+    "clinic_id": 2,
+    "provider_id": 104,
+    "service_date": "2025-04-15",
+    "allowed_amount": 179.8,
+    "services_count": 5
+  },
+  {
+    "id": 1053,
+    "clinic_id": 6,
+    "provider_id": 114,
+    "service_date": "2025-04-19",
+    "allowed_amount": 100.5,
+    "services_count": 4
+  },
+  {
+    "id": 1054,
+    "clinic_id": 3,
+    "provider_id": 108,
+    "service_date": "2025-07-11",
+    "allowed_amount": 315.9,
+    "services_count": 7
+  },
+  {
+    "id": 1055,
+    "clinic_id": 5,
+    "provider_id": 111,
+    "service_date": "2025-04-21",
+    "allowed_amount": 185.79,
+    "services_count": 7
+  },
+  {
+    "id": 1056,
+    "clinic_id": 2,
+    "provider_id": 105,
+    "service_date": "2025-05-13",
+    "allowed_amount": 162.45,
+    "services_count": 4
+  },
+  {
+    "id": 1057,
+    "clinic_id": 1,
+    "provider_id": 101,
+    "service_date": "2025-03-26",
+    "allowed_amount": 193.98,
+    "services_count": 6
+  },
+  {
+    "id": 1058,
+    "clinic_id": 4,
+    "provider_id": 109,
+    "service_date": "2025-06-18",
+    "allowed_amount": 193.47,
+    "services_count": 5
+  },
+  {
+    "id": 1059,
+    "clinic_id": 2,
+    "provider_id": 105,
+    "service_date": "2025-04-23",
+    "allowed_amount": 135.68,
+    "services_count": 4
+  },
+  {
+    "id": 1060,
+    "clinic_id": 1,
+    "provider_id": 102,
+    "service_date": "2025-01-31",
+    "allowed_amount": 242.55,
+    "services_count": 5
+  },
+  {
+    "id": 1061,
+    "clinic_id": 2,
+    "provider_id": 105,
+    "service_date": "2025-05-22",
+    "allowed_amount": 112.27,
+    "services_count": 3
+  },
+  {
+    "id": 1062,
+    "clinic_id": 5,
+    "provider_id": 112,
+    "service_date": "2025-07-30",
+    "allowed_amount": 161.98,
+    "services_count": 4
+  },
+  {
+    "id": 1063,
+    "clinic_id": 3,
+    "provider_id": 107,
+    "service_date": "2025-05-22",
+    "allowed_amount": 232.27,
+    "services_count": 7
+  },
+  {
+    "id": 1064,
+    "clinic_id": 4,
+    "provider_id": 110,
+    "service_date": "2025-04-09",
+    "allowed_amount": 67.15,
+    "services_count": 2
+  },
+  {
+    "id": 1065,
+    "clinic_id": 4,
+    "provider_id": 109,
+    "service_date": "2025-07-04",
+    "allowed_amount": 157.11,
+    "services_count": 5
+  },
+  {
+    "id": 1066,
+    "clinic_id": 6,
+    "provider_id": 115,
+    "service_date": "2025-06-16",
+    "allowed_amount": 311.6,
+    "services_count": 6
+  },
+  {
+    "id": 1067,
+    "clinic_id": 1,
+    "provider_id": 103,
+    "service_date": "2025-01-18",
+    "allowed_amount": 53.32,
+    "services_count": 2
+  },
+  {
+    "id": 1068,
+    "clinic_id": 6,
+    "provider_id": 115,
+    "service_date": "2025-01-08",
+    "allowed_amount": 110.06,
+    "services_count": 3
+  },
+  {
+    "id": 1069,
+    "clinic_id": 5,
+    "provider_id": 112,
+    "service_date": "2025-05-25",
+    "allowed_amount": 129.09,
+    "services_count": 4
+  },
+  {
+    "id": 1070,
+    "clinic_id": 5,
+    "provider_id": 111,
+    "service_date": "2025-03-01",
+    "allowed_amount": 228.19,
+    "services_count": 5
+  },
+  {
+    "id": 1071,
+    "clinic_id": 5,
+    "provider_id": 112,
+    "service_date": "2025-06-13",
+    "allowed_amount": 219.64,
+    "services_count": 5
+  },
+  {
+    "id": 1072,
+    "clinic_id": 5,
+    "provider_id": 112,
+    "service_date": "2025-06-29",
+    "allowed_amount": 232.88,
+    "services_count": 6
+  },
+  {
+    "id": 1073,
+    "clinic_id": 3,
+    "provider_id": 106,
+    "service_date": "2025-06-12",
+    "allowed_amount": 152.19,
+    "services_count": 6
+  },
+  {
+    "id": 1074,
+    "clinic_id": 4,
+    "provider_id": 109,
+    "service_date": "2025-05-29",
+    "allowed_amount": 220.89,
+    "services_count": 5
+  },
+  {
+    "id": 1075,
+    "clinic_id": 3,
+    "provider_id": 108,
+    "service_date": "2025-05-09",
+    "allowed_amount": 237.51,
+    "services_count": 7
+  },
+  {
+    "id": 1076,
+    "clinic_id": 2,
+    "provider_id": 105,
+    "service_date": "2025-08-05",
+    "allowed_amount": 210.09,
+    "services_count": 7
+  },
+  {
+    "id": 1077,
+    "clinic_id": 6,
+    "provider_id": 115,
+    "service_date": "2025-01-28",
+    "allowed_amount": 128.25,
+    "services_count": 4
+  },
+  {
+    "id": 1078,
+    "clinic_id": 4,
+    "provider_id": 110,
+    "service_date": "2025-06-16",
+    "allowed_amount": 173.91,
+    "services_count": 4
+  },
+  {
+    "id": 1079,
+    "clinic_id": 2,
+    "provider_id": 105,
+    "service_date": "2025-04-27",
+    "allowed_amount": 353.42,
+    "services_count": 9
+  },
+  {
+    "id": 1080,
+    "clinic_id": 3,
+    "provider_id": 106,
+    "service_date": "2025-06-26",
+    "allowed_amount": 229.81,
+    "services_count": 7
+  },
+  {
+    "id": 1081,
+    "clinic_id": 3,
+    "provider_id": 106,
+    "service_date": "2025-02-01",
+    "allowed_amount": 149.88,
+    "services_count": 5
+  },
+  {
+    "id": 1082,
+    "clinic_id": 5,
+    "provider_id": 111,
+    "service_date": "2025-05-31",
+    "allowed_amount": 143.46,
+    "services_count": 4
+  },
+  {
+    "id": 1083,
+    "clinic_id": 5,
+    "provider_id": 112,
+    "service_date": "2025-07-24",
+    "allowed_amount": 123.68,
+    "services_count": 4
+  },
+  {
+    "id": 1084,
+    "clinic_id": 2,
+    "provider_id": 105,
+    "service_date": "2025-01-05",
+    "allowed_amount": 121.93,
+    "services_count": 4
+  },
+  {
+    "id": 1085,
+    "clinic_id": 4,
+    "provider_id": 110,
+    "service_date": "2025-07-19",
+    "allowed_amount": 212.6,
+    "services_count": 8
+  },
+  {
+    "id": 1086,
+    "clinic_id": 4,
+    "provider_id": 110,
+    "service_date": "2025-04-20",
+    "allowed_amount": 190.62,
+    "services_count": 4
+  },
+  {
+    "id": 1087,
+    "clinic_id": 1,
+    "provider_id": 101,
+    "service_date": "2025-03-12",
+    "allowed_amount": 367.04,
+    "services_count": 9
+  },
+  {
+    "id": 1088,
+    "clinic_id": 6,
+    "provider_id": 114,
+    "service_date": "2025-04-21",
+    "allowed_amount": 241.3,
+    "services_count": 6
+  },
+  {
+    "id": 1089,
+    "clinic_id": 3,
+    "provider_id": 107,
+    "service_date": "2025-02-09",
+    "allowed_amount": 108.62,
+    "services_count": 4
+  },
+  {
+    "id": 1090,
+    "clinic_id": 5,
+    "provider_id": 113,
+    "service_date": "2025-03-26",
+    "allowed_amount": 154.65,
+    "services_count": 4
+  },
+  {
+    "id": 1091,
+    "clinic_id": 5,
+    "provider_id": 113,
+    "service_date": "2025-02-24",
+    "allowed_amount": 129.27,
+    "services_count": 4
+  },
+  {
+    "id": 1092,
+    "clinic_id": 3,
+    "provider_id": 108,
+    "service_date": "2025-02-27",
+    "allowed_amount": 190.9,
+    "services_count": 6
+  },
+  {
+    "id": 1093,
+    "clinic_id": 2,
+    "provider_id": 105,
+    "service_date": "2025-01-18",
+    "allowed_amount": 121.94,
+    "services_count": 3
+  },
+  {
+    "id": 1094,
+    "clinic_id": 3,
+    "provider_id": 107,
+    "service_date": "2025-07-04",
+    "allowed_amount": 208.47,
+    "services_count": 6
+  },
+  {
+    "id": 1095,
+    "clinic_id": 4,
+    "provider_id": 110,
+    "service_date": "2025-04-17",
+    "allowed_amount": 281.45,
+    "services_count": 8
+  },
+  {
+    "id": 1096,
+    "clinic_id": 3,
+    "provider_id": 106,
+    "service_date": "2025-02-26",
+    "allowed_amount": 126.59,
+    "services_count": 4
+  },
+  {
+    "id": 1097,
+    "clinic_id": 4,
+    "provider_id": 110,
+    "service_date": "2025-02-14",
+    "allowed_amount": 164.87,
+    "services_count": 4
+  },
+  {
+    "id": 1098,
+    "clinic_id": 1,
+    "provider_id": 102,
+    "service_date": "2025-01-05",
+    "allowed_amount": 220.35,
+    "services_count": 6
+  },
+  {
+    "id": 1099,
+    "clinic_id": 3,
+    "provider_id": 106,
+    "service_date": "2025-07-25",
+    "allowed_amount": 163.75,
+    "services_count": 5
+  },
+  {
+    "id": 1100,
+    "clinic_id": 3,
+    "provider_id": 108,
+    "service_date": "2025-03-28",
+    "allowed_amount": 147.71,
+    "services_count": 4
+  }
+]

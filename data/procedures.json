@@ -1,0 +1,1752 @@
+[
+  {
+    "id": 9001,
+    "visit_id": 1001,
+    "cpt_code": "97110",
+    "units": 3,
+    "charge": 168
+  },
+  {
+    "id": 9002,
+    "visit_id": 1001,
+    "cpt_code": "97110",
+    "units": 3,
+    "charge": 108
+  },
+  {
+    "id": 9003,
+    "visit_id": 1002,
+    "cpt_code": "97112",
+    "units": 3,
+    "charge": 120
+  },
+  {
+    "id": 9004,
+    "visit_id": 1002,
+    "cpt_code": "97140",
+    "units": 2,
+    "charge": 96
+  },
+  {
+    "id": 9005,
+    "visit_id": 1002,
+    "cpt_code": "97530",
+    "units": 3,
+    "charge": 168
+  },
+  {
+    "id": 9006,
+    "visit_id": 1003,
+    "cpt_code": "97112",
+    "units": 3,
+    "charge": 120
+  },
+  {
+    "id": 9007,
+    "visit_id": 1003,
+    "cpt_code": "97110",
+    "units": 1,
+    "charge": 28
+  },
+  {
+    "id": 9008,
+    "visit_id": 1004,
+    "cpt_code": "97140",
+    "units": 3,
+    "charge": 168
+  },
+  {
+    "id": 9009,
+    "visit_id": 1004,
+    "cpt_code": "97112",
+    "units": 3,
+    "charge": 108
+  },
+  {
+    "id": 9010,
+    "visit_id": 1005,
+    "cpt_code": "97530",
+    "units": 2,
+    "charge": 80
+  },
+  {
+    "id": 9011,
+    "visit_id": 1005,
+    "cpt_code": "97110",
+    "units": 1,
+    "charge": 52
+  },
+  {
+    "id": 9012,
+    "visit_id": 1006,
+    "cpt_code": "97110",
+    "units": 1,
+    "charge": 52
+  },
+  {
+    "id": 9013,
+    "visit_id": 1006,
+    "cpt_code": "97140",
+    "units": 1,
+    "charge": 40
+  },
+  {
+    "id": 9014,
+    "visit_id": 1007,
+    "cpt_code": "97112",
+    "units": 2,
+    "charge": 112
+  },
+  {
+    "id": 9015,
+    "visit_id": 1007,
+    "cpt_code": "97112",
+    "units": 1,
+    "charge": 56
+  },
+  {
+    "id": 9016,
+    "visit_id": 1007,
+    "cpt_code": "97110",
+    "units": 1,
+    "charge": 28
+  },
+  {
+    "id": 9017,
+    "visit_id": 1008,
+    "cpt_code": "97530",
+    "units": 1,
+    "charge": 52
+  },
+  {
+    "id": 9018,
+    "visit_id": 1008,
+    "cpt_code": "97110",
+    "units": 1,
+    "charge": 52
+  },
+  {
+    "id": 9019,
+    "visit_id": 1008,
+    "cpt_code": "97110",
+    "units": 2,
+    "charge": 88
+  },
+  {
+    "id": 9020,
+    "visit_id": 1009,
+    "cpt_code": "97112",
+    "units": 1,
+    "charge": 44
+  },
+  {
+    "id": 9021,
+    "visit_id": 1009,
+    "cpt_code": "97112",
+    "units": 1,
+    "charge": 28
+  },
+  {
+    "id": 9022,
+    "visit_id": 1009,
+    "cpt_code": "97140",
+    "units": 1,
+    "charge": 28
+  },
+  {
+    "id": 9023,
+    "visit_id": 1010,
+    "cpt_code": "97110",
+    "units": 1,
+    "charge": 32
+  },
+  {
+    "id": 9024,
+    "visit_id": 1010,
+    "cpt_code": "97110",
+    "units": 3,
+    "charge": 120
+  },
+  {
+    "id": 9025,
+    "visit_id": 1011,
+    "cpt_code": "97110",
+    "units": 2,
+    "charge": 96
+  },
+  {
+    "id": 9026,
+    "visit_id": 1011,
+    "cpt_code": "97140",
+    "units": 1,
+    "charge": 48
+  },
+  {
+    "id": 9027,
+    "visit_id": 1012,
+    "cpt_code": "97530",
+    "units": 2,
+    "charge": 64
+  },
+  {
+    "id": 9028,
+    "visit_id": 1012,
+    "cpt_code": "97110",
+    "units": 2,
+    "charge": 64
+  },
+  {
+    "id": 9029,
+    "visit_id": 1012,
+    "cpt_code": "97110",
+    "units": 3,
+    "charge": 120
+  },
+  {
+    "id": 9030,
+    "visit_id": 1013,
+    "cpt_code": "97112",
+    "units": 2,
+    "charge": 88
+  },
+  {
+    "id": 9031,
+    "visit_id": 1013,
+    "cpt_code": "97112",
+    "units": 2,
+    "charge": 88
+  },
+  {
+    "id": 9032,
+    "visit_id": 1014,
+    "cpt_code": "97110",
+    "units": 1,
+    "charge": 44
+  },
+  {
+    "id": 9033,
+    "visit_id": 1014,
+    "cpt_code": "97110",
+    "units": 1,
+    "charge": 36
+  },
+  {
+    "id": 9034,
+    "visit_id": 1014,
+    "cpt_code": "97140",
+    "units": 2,
+    "charge": 80
+  },
+  {
+    "id": 9035,
+    "visit_id": 1015,
+    "cpt_code": "97140",
+    "units": 1,
+    "charge": 32
+  },
+  {
+    "id": 9036,
+    "visit_id": 1015,
+    "cpt_code": "97530",
+    "units": 2,
+    "charge": 56
+  },
+  {
+    "id": 9037,
+    "visit_id": 1015,
+    "cpt_code": "97110",
+    "units": 2,
+    "charge": 72
+  },
+  {
+    "id": 9038,
+    "visit_id": 1016,
+    "cpt_code": "97530",
+    "units": 3,
+    "charge": 84
+  },
+  {
+    "id": 9039,
+    "visit_id": 1016,
+    "cpt_code": "97110",
+    "units": 1,
+    "charge": 36
+  },
+  {
+    "id": 9040,
+    "visit_id": 1016,
+    "cpt_code": "97110",
+    "units": 2,
+    "charge": 72
+  },
+  {
+    "id": 9041,
+    "visit_id": 1017,
+    "cpt_code": "97140",
+    "units": 1,
+    "charge": 40
+  },
+  {
+    "id": 9042,
+    "visit_id": 1017,
+    "cpt_code": "97110",
+    "units": 2,
+    "charge": 104
+  },
+  {
+    "id": 9043,
+    "visit_id": 1018,
+    "cpt_code": "97112",
+    "units": 2,
+    "charge": 56
+  },
+  {
+    "id": 9044,
+    "visit_id": 1018,
+    "cpt_code": "97112",
+    "units": 3,
+    "charge": 144
+  },
+  {
+    "id": 9045,
+    "visit_id": 1019,
+    "cpt_code": "97110",
+    "units": 2,
+    "charge": 56
+  },
+  {
+    "id": 9046,
+    "visit_id": 1019,
+    "cpt_code": "97530",
+    "units": 1,
+    "charge": 40
+  },
+  {
+    "id": 9047,
+    "visit_id": 1020,
+    "cpt_code": "97112",
+    "units": 1,
+    "charge": 40
+  },
+  {
+    "id": 9048,
+    "visit_id": 1020,
+    "cpt_code": "97530",
+    "units": 2,
+    "charge": 88
+  },
+  {
+    "id": 9049,
+    "visit_id": 1021,
+    "cpt_code": "97140",
+    "units": 1,
+    "charge": 32
+  },
+  {
+    "id": 9050,
+    "visit_id": 1021,
+    "cpt_code": "97140",
+    "units": 1,
+    "charge": 44
+  },
+  {
+    "id": 9051,
+    "visit_id": 1021,
+    "cpt_code": "97110",
+    "units": 1,
+    "charge": 52
+  },
+  {
+    "id": 9052,
+    "visit_id": 1022,
+    "cpt_code": "97530",
+    "units": 3,
+    "charge": 120
+  },
+  {
+    "id": 9053,
+    "visit_id": 1022,
+    "cpt_code": "97140",
+    "units": 1,
+    "charge": 52
+  },
+  {
+    "id": 9054,
+    "visit_id": 1023,
+    "cpt_code": "97140",
+    "units": 2,
+    "charge": 64
+  },
+  {
+    "id": 9055,
+    "visit_id": 1023,
+    "cpt_code": "97140",
+    "units": 3,
+    "charge": 144
+  },
+  {
+    "id": 9056,
+    "visit_id": 1024,
+    "cpt_code": "97530",
+    "units": 2,
+    "charge": 104
+  },
+  {
+    "id": 9057,
+    "visit_id": 1024,
+    "cpt_code": "97140",
+    "units": 3,
+    "charge": 108
+  },
+  {
+    "id": 9058,
+    "visit_id": 1024,
+    "cpt_code": "97112",
+    "units": 2,
+    "charge": 104
+  },
+  {
+    "id": 9059,
+    "visit_id": 1025,
+    "cpt_code": "97140",
+    "units": 2,
+    "charge": 80
+  },
+  {
+    "id": 9060,
+    "visit_id": 1025,
+    "cpt_code": "97530",
+    "units": 3,
+    "charge": 144
+  },
+  {
+    "id": 9061,
+    "visit_id": 1026,
+    "cpt_code": "97112",
+    "units": 3,
+    "charge": 96
+  },
+  {
+    "id": 9062,
+    "visit_id": 1026,
+    "cpt_code": "97140",
+    "units": 3,
+    "charge": 144
+  },
+  {
+    "id": 9063,
+    "visit_id": 1026,
+    "cpt_code": "97110",
+    "units": 1,
+    "charge": 44
+  },
+  {
+    "id": 9064,
+    "visit_id": 1027,
+    "cpt_code": "97112",
+    "units": 2,
+    "charge": 64
+  },
+  {
+    "id": 9065,
+    "visit_id": 1027,
+    "cpt_code": "97530",
+    "units": 2,
+    "charge": 80
+  },
+  {
+    "id": 9066,
+    "visit_id": 1028,
+    "cpt_code": "97112",
+    "units": 3,
+    "charge": 84
+  },
+  {
+    "id": 9067,
+    "visit_id": 1028,
+    "cpt_code": "97110",
+    "units": 2,
+    "charge": 80
+  },
+  {
+    "id": 9068,
+    "visit_id": 1029,
+    "cpt_code": "97110",
+    "units": 2,
+    "charge": 72
+  },
+  {
+    "id": 9069,
+    "visit_id": 1029,
+    "cpt_code": "97530",
+    "units": 3,
+    "charge": 144
+  },
+  {
+    "id": 9070,
+    "visit_id": 1030,
+    "cpt_code": "97112",
+    "units": 3,
+    "charge": 168
+  },
+  {
+    "id": 9071,
+    "visit_id": 1030,
+    "cpt_code": "97530",
+    "units": 2,
+    "charge": 80
+  },
+  {
+    "id": 9072,
+    "visit_id": 1030,
+    "cpt_code": "97140",
+    "units": 3,
+    "charge": 168
+  },
+  {
+    "id": 9073,
+    "visit_id": 1031,
+    "cpt_code": "97112",
+    "units": 2,
+    "charge": 96
+  },
+  {
+    "id": 9074,
+    "visit_id": 1031,
+    "cpt_code": "97140",
+    "units": 3,
+    "charge": 96
+  },
+  {
+    "id": 9075,
+    "visit_id": 1031,
+    "cpt_code": "97112",
+    "units": 1,
+    "charge": 40
+  },
+  {
+    "id": 9076,
+    "visit_id": 1032,
+    "cpt_code": "97530",
+    "units": 2,
+    "charge": 112
+  },
+  {
+    "id": 9077,
+    "visit_id": 1032,
+    "cpt_code": "97530",
+    "units": 1,
+    "charge": 40
+  },
+  {
+    "id": 9078,
+    "visit_id": 1032,
+    "cpt_code": "97530",
+    "units": 2,
+    "charge": 56
+  },
+  {
+    "id": 9079,
+    "visit_id": 1033,
+    "cpt_code": "97140",
+    "units": 2,
+    "charge": 104
+  },
+  {
+    "id": 9080,
+    "visit_id": 1033,
+    "cpt_code": "97530",
+    "units": 3,
+    "charge": 120
+  },
+  {
+    "id": 9081,
+    "visit_id": 1034,
+    "cpt_code": "97530",
+    "units": 2,
+    "charge": 104
+  },
+  {
+    "id": 9082,
+    "visit_id": 1034,
+    "cpt_code": "97112",
+    "units": 2,
+    "charge": 72
+  },
+  {
+    "id": 9083,
+    "visit_id": 1035,
+    "cpt_code": "97110",
+    "units": 3,
+    "charge": 156
+  },
+  {
+    "id": 9084,
+    "visit_id": 1035,
+    "cpt_code": "97112",
+    "units": 2,
+    "charge": 72
+  },
+  {
+    "id": 9085,
+    "visit_id": 1036,
+    "cpt_code": "97140",
+    "units": 2,
+    "charge": 104
+  },
+  {
+    "id": 9086,
+    "visit_id": 1036,
+    "cpt_code": "97140",
+    "units": 2,
+    "charge": 88
+  },
+  {
+    "id": 9087,
+    "visit_id": 1036,
+    "cpt_code": "97110",
+    "units": 2,
+    "charge": 56
+  },
+  {
+    "id": 9088,
+    "visit_id": 1037,
+    "cpt_code": "97110",
+    "units": 1,
+    "charge": 40
+  },
+  {
+    "id": 9089,
+    "visit_id": 1037,
+    "cpt_code": "97112",
+    "units": 1,
+    "charge": 36
+  },
+  {
+    "id": 9090,
+    "visit_id": 1038,
+    "cpt_code": "97530",
+    "units": 3,
+    "charge": 132
+  },
+  {
+    "id": 9091,
+    "visit_id": 1038,
+    "cpt_code": "97140",
+    "units": 1,
+    "charge": 32
+  },
+  {
+    "id": 9092,
+    "visit_id": 1039,
+    "cpt_code": "97140",
+    "units": 3,
+    "charge": 156
+  },
+  {
+    "id": 9093,
+    "visit_id": 1039,
+    "cpt_code": "97530",
+    "units": 3,
+    "charge": 120
+  },
+  {
+    "id": 9094,
+    "visit_id": 1040,
+    "cpt_code": "97110",
+    "units": 3,
+    "charge": 84
+  },
+  {
+    "id": 9095,
+    "visit_id": 1040,
+    "cpt_code": "97140",
+    "units": 3,
+    "charge": 156
+  },
+  {
+    "id": 9096,
+    "visit_id": 1040,
+    "cpt_code": "97140",
+    "units": 1,
+    "charge": 48
+  },
+  {
+    "id": 9097,
+    "visit_id": 1041,
+    "cpt_code": "97140",
+    "units": 3,
+    "charge": 168
+  },
+  {
+    "id": 9098,
+    "visit_id": 1041,
+    "cpt_code": "97112",
+    "units": 2,
+    "charge": 72
+  },
+  {
+    "id": 9099,
+    "visit_id": 1041,
+    "cpt_code": "97140",
+    "units": 3,
+    "charge": 168
+  },
+  {
+    "id": 9100,
+    "visit_id": 1042,
+    "cpt_code": "97110",
+    "units": 2,
+    "charge": 112
+  },
+  {
+    "id": 9101,
+    "visit_id": 1042,
+    "cpt_code": "97112",
+    "units": 2,
+    "charge": 104
+  },
+  {
+    "id": 9102,
+    "visit_id": 1043,
+    "cpt_code": "97112",
+    "units": 2,
+    "charge": 88
+  },
+  {
+    "id": 9103,
+    "visit_id": 1043,
+    "cpt_code": "97140",
+    "units": 2,
+    "charge": 88
+  },
+  {
+    "id": 9104,
+    "visit_id": 1043,
+    "cpt_code": "97110",
+    "units": 3,
+    "charge": 120
+  },
+  {
+    "id": 9105,
+    "visit_id": 1044,
+    "cpt_code": "97530",
+    "units": 3,
+    "charge": 168
+  },
+  {
+    "id": 9106,
+    "visit_id": 1044,
+    "cpt_code": "97530",
+    "units": 1,
+    "charge": 32
+  },
+  {
+    "id": 9107,
+    "visit_id": 1045,
+    "cpt_code": "97530",
+    "units": 3,
+    "charge": 144
+  },
+  {
+    "id": 9108,
+    "visit_id": 1045,
+    "cpt_code": "97530",
+    "units": 3,
+    "charge": 144
+  },
+  {
+    "id": 9109,
+    "visit_id": 1045,
+    "cpt_code": "97140",
+    "units": 3,
+    "charge": 168
+  },
+  {
+    "id": 9110,
+    "visit_id": 1046,
+    "cpt_code": "97140",
+    "units": 1,
+    "charge": 36
+  },
+  {
+    "id": 9111,
+    "visit_id": 1046,
+    "cpt_code": "97112",
+    "units": 1,
+    "charge": 56
+  },
+  {
+    "id": 9112,
+    "visit_id": 1047,
+    "cpt_code": "97110",
+    "units": 1,
+    "charge": 44
+  },
+  {
+    "id": 9113,
+    "visit_id": 1047,
+    "cpt_code": "97112",
+    "units": 2,
+    "charge": 72
+  },
+  {
+    "id": 9114,
+    "visit_id": 1047,
+    "cpt_code": "97140",
+    "units": 1,
+    "charge": 36
+  },
+  {
+    "id": 9115,
+    "visit_id": 1048,
+    "cpt_code": "97530",
+    "units": 1,
+    "charge": 28
+  },
+  {
+    "id": 9116,
+    "visit_id": 1048,
+    "cpt_code": "97140",
+    "units": 2,
+    "charge": 112
+  },
+  {
+    "id": 9117,
+    "visit_id": 1049,
+    "cpt_code": "97110",
+    "units": 1,
+    "charge": 52
+  },
+  {
+    "id": 9118,
+    "visit_id": 1049,
+    "cpt_code": "97530",
+    "units": 1,
+    "charge": 28
+  },
+  {
+    "id": 9119,
+    "visit_id": 1049,
+    "cpt_code": "97112",
+    "units": 1,
+    "charge": 44
+  },
+  {
+    "id": 9120,
+    "visit_id": 1050,
+    "cpt_code": "97112",
+    "units": 3,
+    "charge": 156
+  },
+  {
+    "id": 9121,
+    "visit_id": 1050,
+    "cpt_code": "97530",
+    "units": 2,
+    "charge": 88
+  },
+  {
+    "id": 9122,
+    "visit_id": 1050,
+    "cpt_code": "97530",
+    "units": 2,
+    "charge": 56
+  },
+  {
+    "id": 9123,
+    "visit_id": 1051,
+    "cpt_code": "97112",
+    "units": 2,
+    "charge": 64
+  },
+  {
+    "id": 9124,
+    "visit_id": 1051,
+    "cpt_code": "97112",
+    "units": 1,
+    "charge": 36
+  },
+  {
+    "id": 9125,
+    "visit_id": 1052,
+    "cpt_code": "97530",
+    "units": 2,
+    "charge": 56
+  },
+  {
+    "id": 9126,
+    "visit_id": 1052,
+    "cpt_code": "97112",
+    "units": 2,
+    "charge": 88
+  },
+  {
+    "id": 9127,
+    "visit_id": 1052,
+    "cpt_code": "97530",
+    "units": 1,
+    "charge": 40
+  },
+  {
+    "id": 9128,
+    "visit_id": 1053,
+    "cpt_code": "97112",
+    "units": 3,
+    "charge": 108
+  },
+  {
+    "id": 9129,
+    "visit_id": 1053,
+    "cpt_code": "97140",
+    "units": 1,
+    "charge": 32
+  },
+  {
+    "id": 9130,
+    "visit_id": 1054,
+    "cpt_code": "97530",
+    "units": 1,
+    "charge": 56
+  },
+  {
+    "id": 9131,
+    "visit_id": 1054,
+    "cpt_code": "97140",
+    "units": 3,
+    "charge": 156
+  },
+  {
+    "id": 9132,
+    "visit_id": 1054,
+    "cpt_code": "97140",
+    "units": 3,
+    "charge": 168
+  },
+  {
+    "id": 9133,
+    "visit_id": 1055,
+    "cpt_code": "97140",
+    "units": 1,
+    "charge": 32
+  },
+  {
+    "id": 9134,
+    "visit_id": 1055,
+    "cpt_code": "97112",
+    "units": 3,
+    "charge": 84
+  },
+  {
+    "id": 9135,
+    "visit_id": 1055,
+    "cpt_code": "97140",
+    "units": 3,
+    "charge": 84
+  },
+  {
+    "id": 9136,
+    "visit_id": 1056,
+    "cpt_code": "97140",
+    "units": 1,
+    "charge": 52
+  },
+  {
+    "id": 9137,
+    "visit_id": 1056,
+    "cpt_code": "97530",
+    "units": 1,
+    "charge": 56
+  },
+  {
+    "id": 9138,
+    "visit_id": 1056,
+    "cpt_code": "97140",
+    "units": 2,
+    "charge": 96
+  },
+  {
+    "id": 9139,
+    "visit_id": 1057,
+    "cpt_code": "97530",
+    "units": 2,
+    "charge": 104
+  },
+  {
+    "id": 9140,
+    "visit_id": 1057,
+    "cpt_code": "97110",
+    "units": 2,
+    "charge": 64
+  },
+  {
+    "id": 9141,
+    "visit_id": 1057,
+    "cpt_code": "97140",
+    "units": 2,
+    "charge": 96
+  },
+  {
+    "id": 9142,
+    "visit_id": 1058,
+    "cpt_code": "97530",
+    "units": 1,
+    "charge": 40
+  },
+  {
+    "id": 9143,
+    "visit_id": 1058,
+    "cpt_code": "97140",
+    "units": 3,
+    "charge": 168
+  },
+  {
+    "id": 9144,
+    "visit_id": 1058,
+    "cpt_code": "97530",
+    "units": 1,
+    "charge": 40
+  },
+  {
+    "id": 9145,
+    "visit_id": 1059,
+    "cpt_code": "97110",
+    "units": 1,
+    "charge": 40
+  },
+  {
+    "id": 9146,
+    "visit_id": 1059,
+    "cpt_code": "97112",
+    "units": 2,
+    "charge": 56
+  },
+  {
+    "id": 9147,
+    "visit_id": 1059,
+    "cpt_code": "97530",
+    "units": 1,
+    "charge": 40
+  },
+  {
+    "id": 9148,
+    "visit_id": 1060,
+    "cpt_code": "97530",
+    "units": 3,
+    "charge": 132
+  },
+  {
+    "id": 9149,
+    "visit_id": 1060,
+    "cpt_code": "97140",
+    "units": 2,
+    "charge": 112
+  },
+  {
+    "id": 9150,
+    "visit_id": 1061,
+    "cpt_code": "97530",
+    "units": 1,
+    "charge": 36
+  },
+  {
+    "id": 9151,
+    "visit_id": 1061,
+    "cpt_code": "97110",
+    "units": 2,
+    "charge": 104
+  },
+  {
+    "id": 9152,
+    "visit_id": 1062,
+    "cpt_code": "97140",
+    "units": 3,
+    "charge": 132
+  },
+  {
+    "id": 9153,
+    "visit_id": 1062,
+    "cpt_code": "97530",
+    "units": 1,
+    "charge": 56
+  },
+  {
+    "id": 9154,
+    "visit_id": 1063,
+    "cpt_code": "97530",
+    "units": 2,
+    "charge": 80
+  },
+  {
+    "id": 9155,
+    "visit_id": 1063,
+    "cpt_code": "97112",
+    "units": 3,
+    "charge": 156
+  },
+  {
+    "id": 9156,
+    "visit_id": 1063,
+    "cpt_code": "97112",
+    "units": 2,
+    "charge": 56
+  },
+  {
+    "id": 9157,
+    "visit_id": 1064,
+    "cpt_code": "97530",
+    "units": 1,
+    "charge": 36
+  },
+  {
+    "id": 9158,
+    "visit_id": 1064,
+    "cpt_code": "97140",
+    "units": 1,
+    "charge": 56
+  },
+  {
+    "id": 9159,
+    "visit_id": 1065,
+    "cpt_code": "97530",
+    "units": 3,
+    "charge": 108
+  },
+  {
+    "id": 9160,
+    "visit_id": 1065,
+    "cpt_code": "97110",
+    "units": 2,
+    "charge": 88
+  },
+  {
+    "id": 9161,
+    "visit_id": 1066,
+    "cpt_code": "97140",
+    "units": 3,
+    "charge": 156
+  },
+  {
+    "id": 9162,
+    "visit_id": 1066,
+    "cpt_code": "97140",
+    "units": 3,
+    "charge": 168
+  },
+  {
+    "id": 9163,
+    "visit_id": 1067,
+    "cpt_code": "97140",
+    "units": 1,
+    "charge": 32
+  },
+  {
+    "id": 9164,
+    "visit_id": 1067,
+    "cpt_code": "97530",
+    "units": 1,
+    "charge": 32
+  },
+  {
+    "id": 9165,
+    "visit_id": 1068,
+    "cpt_code": "97140",
+    "units": 1,
+    "charge": 44
+  },
+  {
+    "id": 9166,
+    "visit_id": 1068,
+    "cpt_code": "97140",
+    "units": 2,
+    "charge": 104
+  },
+  {
+    "id": 9167,
+    "visit_id": 1069,
+    "cpt_code": "97112",
+    "units": 1,
+    "charge": 32
+  },
+  {
+    "id": 9168,
+    "visit_id": 1069,
+    "cpt_code": "97530",
+    "units": 3,
+    "charge": 120
+  },
+  {
+    "id": 9169,
+    "visit_id": 1070,
+    "cpt_code": "97140",
+    "units": 2,
+    "charge": 88
+  },
+  {
+    "id": 9170,
+    "visit_id": 1070,
+    "cpt_code": "97110",
+    "units": 2,
+    "charge": 88
+  },
+  {
+    "id": 9171,
+    "visit_id": 1070,
+    "cpt_code": "97112",
+    "units": 1,
+    "charge": 56
+  },
+  {
+    "id": 9172,
+    "visit_id": 1071,
+    "cpt_code": "97140",
+    "units": 2,
+    "charge": 88
+  },
+  {
+    "id": 9173,
+    "visit_id": 1071,
+    "cpt_code": "97112",
+    "units": 2,
+    "charge": 112
+  },
+  {
+    "id": 9174,
+    "visit_id": 1071,
+    "cpt_code": "97110",
+    "units": 1,
+    "charge": 52
+  },
+  {
+    "id": 9175,
+    "visit_id": 1072,
+    "cpt_code": "97110",
+    "units": 3,
+    "charge": 156
+  },
+  {
+    "id": 9176,
+    "visit_id": 1072,
+    "cpt_code": "97140",
+    "units": 1,
+    "charge": 28
+  },
+  {
+    "id": 9177,
+    "visit_id": 1072,
+    "cpt_code": "97530",
+    "units": 2,
+    "charge": 80
+  },
+  {
+    "id": 9178,
+    "visit_id": 1073,
+    "cpt_code": "97140",
+    "units": 3,
+    "charge": 108
+  },
+  {
+    "id": 9179,
+    "visit_id": 1073,
+    "cpt_code": "97110",
+    "units": 3,
+    "charge": 84
+  },
+  {
+    "id": 9180,
+    "visit_id": 1074,
+    "cpt_code": "97112",
+    "units": 1,
+    "charge": 44
+  },
+  {
+    "id": 9181,
+    "visit_id": 1074,
+    "cpt_code": "97140",
+    "units": 3,
+    "charge": 156
+  },
+  {
+    "id": 9182,
+    "visit_id": 1074,
+    "cpt_code": "97112",
+    "units": 1,
+    "charge": 36
+  },
+  {
+    "id": 9183,
+    "visit_id": 1075,
+    "cpt_code": "97112",
+    "units": 2,
+    "charge": 112
+  },
+  {
+    "id": 9184,
+    "visit_id": 1075,
+    "cpt_code": "97140",
+    "units": 3,
+    "charge": 144
+  },
+  {
+    "id": 9185,
+    "visit_id": 1075,
+    "cpt_code": "97110",
+    "units": 2,
+    "charge": 64
+  },
+  {
+    "id": 9186,
+    "visit_id": 1076,
+    "cpt_code": "97110",
+    "units": 2,
+    "charge": 56
+  },
+  {
+    "id": 9187,
+    "visit_id": 1076,
+    "cpt_code": "97140",
+    "units": 3,
+    "charge": 96
+  },
+  {
+    "id": 9188,
+    "visit_id": 1076,
+    "cpt_code": "97530",
+    "units": 2,
+    "charge": 88
+  },
+  {
+    "id": 9189,
+    "visit_id": 1077,
+    "cpt_code": "97530",
+    "units": 1,
+    "charge": 48
+  },
+  {
+    "id": 9190,
+    "visit_id": 1077,
+    "cpt_code": "97112",
+    "units": 3,
+    "charge": 96
+  },
+  {
+    "id": 9191,
+    "visit_id": 1078,
+    "cpt_code": "97110",
+    "units": 1,
+    "charge": 28
+  },
+  {
+    "id": 9192,
+    "visit_id": 1078,
+    "cpt_code": "97110",
+    "units": 2,
+    "charge": 112
+  },
+  {
+    "id": 9193,
+    "visit_id": 1078,
+    "cpt_code": "97110",
+    "units": 1,
+    "charge": 40
+  },
+  {
+    "id": 9194,
+    "visit_id": 1079,
+    "cpt_code": "97530",
+    "units": 3,
+    "charge": 108
+  },
+  {
+    "id": 9195,
+    "visit_id": 1079,
+    "cpt_code": "97530",
+    "units": 3,
+    "charge": 96
+  },
+  {
+    "id": 9196,
+    "visit_id": 1079,
+    "cpt_code": "97530",
+    "units": 3,
+    "charge": 156
+  },
+  {
+    "id": 9197,
+    "visit_id": 1080,
+    "cpt_code": "97112",
+    "units": 2,
+    "charge": 112
+  },
+  {
+    "id": 9198,
+    "visit_id": 1080,
+    "cpt_code": "97112",
+    "units": 2,
+    "charge": 64
+  },
+  {
+    "id": 9199,
+    "visit_id": 1080,
+    "cpt_code": "97140",
+    "units": 3,
+    "charge": 144
+  },
+  {
+    "id": 9200,
+    "visit_id": 1081,
+    "cpt_code": "97110",
+    "units": 3,
+    "charge": 120
+  },
+  {
+    "id": 9201,
+    "visit_id": 1081,
+    "cpt_code": "97110",
+    "units": 1,
+    "charge": 48
+  },
+  {
+    "id": 9202,
+    "visit_id": 1081,
+    "cpt_code": "97112",
+    "units": 1,
+    "charge": 40
+  },
+  {
+    "id": 9203,
+    "visit_id": 1082,
+    "cpt_code": "97112",
+    "units": 2,
+    "charge": 72
+  },
+  {
+    "id": 9204,
+    "visit_id": 1082,
+    "cpt_code": "97110",
+    "units": 2,
+    "charge": 72
+  },
+  {
+    "id": 9205,
+    "visit_id": 1083,
+    "cpt_code": "97110",
+    "units": 3,
+    "charge": 84
+  },
+  {
+    "id": 9206,
+    "visit_id": 1083,
+    "cpt_code": "97112",
+    "units": 1,
+    "charge": 48
+  },
+  {
+    "id": 9207,
+    "visit_id": 1084,
+    "cpt_code": "97140",
+    "units": 1,
+    "charge": 36
+  },
+  {
+    "id": 9208,
+    "visit_id": 1084,
+    "cpt_code": "97530",
+    "units": 3,
+    "charge": 96
+  },
+  {
+    "id": 9209,
+    "visit_id": 1085,
+    "cpt_code": "97110",
+    "units": 2,
+    "charge": 80
+  },
+  {
+    "id": 9210,
+    "visit_id": 1085,
+    "cpt_code": "97110",
+    "units": 3,
+    "charge": 132
+  },
+  {
+    "id": 9211,
+    "visit_id": 1085,
+    "cpt_code": "97530",
+    "units": 3,
+    "charge": 84
+  },
+  {
+    "id": 9212,
+    "visit_id": 1086,
+    "cpt_code": "97530",
+    "units": 3,
+    "charge": 168
+  },
+  {
+    "id": 9213,
+    "visit_id": 1086,
+    "cpt_code": "97110",
+    "units": 1,
+    "charge": 48
+  },
+  {
+    "id": 9214,
+    "visit_id": 1087,
+    "cpt_code": "97530",
+    "units": 3,
+    "charge": 132
+  },
+  {
+    "id": 9215,
+    "visit_id": 1087,
+    "cpt_code": "97530",
+    "units": 3,
+    "charge": 156
+  },
+  {
+    "id": 9216,
+    "visit_id": 1087,
+    "cpt_code": "97110",
+    "units": 3,
+    "charge": 96
+  },
+  {
+    "id": 9217,
+    "visit_id": 1088,
+    "cpt_code": "97112",
+    "units": 2,
+    "charge": 96
+  },
+  {
+    "id": 9218,
+    "visit_id": 1088,
+    "cpt_code": "97530",
+    "units": 2,
+    "charge": 104
+  },
+  {
+    "id": 9219,
+    "visit_id": 1088,
+    "cpt_code": "97110",
+    "units": 2,
+    "charge": 104
+  },
+  {
+    "id": 9220,
+    "visit_id": 1089,
+    "cpt_code": "97110",
+    "units": 1,
+    "charge": 32
+  },
+  {
+    "id": 9221,
+    "visit_id": 1089,
+    "cpt_code": "97110",
+    "units": 2,
+    "charge": 64
+  },
+  {
+    "id": 9222,
+    "visit_id": 1089,
+    "cpt_code": "97140",
+    "units": 1,
+    "charge": 28
+  },
+  {
+    "id": 9223,
+    "visit_id": 1090,
+    "cpt_code": "97530",
+    "units": 2,
+    "charge": 104
+  },
+  {
+    "id": 9224,
+    "visit_id": 1090,
+    "cpt_code": "97110",
+    "units": 2,
+    "charge": 88
+  },
+  {
+    "id": 9225,
+    "visit_id": 1091,
+    "cpt_code": "97530",
+    "units": 1,
+    "charge": 32
+  },
+  {
+    "id": 9226,
+    "visit_id": 1091,
+    "cpt_code": "97140",
+    "units": 3,
+    "charge": 144
+  },
+  {
+    "id": 9227,
+    "visit_id": 1092,
+    "cpt_code": "97110",
+    "units": 3,
+    "charge": 132
+  },
+  {
+    "id": 9228,
+    "visit_id": 1092,
+    "cpt_code": "97110",
+    "units": 1,
+    "charge": 44
+  },
+  {
+    "id": 9229,
+    "visit_id": 1092,
+    "cpt_code": "97140",
+    "units": 2,
+    "charge": 96
+  },
+  {
+    "id": 9230,
+    "visit_id": 1093,
+    "cpt_code": "97110",
+    "units": 1,
+    "charge": 40
+  },
+  {
+    "id": 9231,
+    "visit_id": 1093,
+    "cpt_code": "97530",
+    "units": 2,
+    "charge": 112
+  },
+  {
+    "id": 9232,
+    "visit_id": 1094,
+    "cpt_code": "97110",
+    "units": 1,
+    "charge": 36
+  },
+  {
+    "id": 9233,
+    "visit_id": 1094,
+    "cpt_code": "97112",
+    "units": 3,
+    "charge": 84
+  },
+  {
+    "id": 9234,
+    "visit_id": 1094,
+    "cpt_code": "97110",
+    "units": 2,
+    "charge": 112
+  },
+  {
+    "id": 9235,
+    "visit_id": 1095,
+    "cpt_code": "97112",
+    "units": 3,
+    "charge": 96
+  },
+  {
+    "id": 9236,
+    "visit_id": 1095,
+    "cpt_code": "97140",
+    "units": 2,
+    "charge": 64
+  },
+  {
+    "id": 9237,
+    "visit_id": 1095,
+    "cpt_code": "97140",
+    "units": 3,
+    "charge": 168
+  },
+  {
+    "id": 9238,
+    "visit_id": 1096,
+    "cpt_code": "97110",
+    "units": 1,
+    "charge": 40
+  },
+  {
+    "id": 9239,
+    "visit_id": 1096,
+    "cpt_code": "97140",
+    "units": 1,
+    "charge": 36
+  },
+  {
+    "id": 9240,
+    "visit_id": 1096,
+    "cpt_code": "97140",
+    "units": 2,
+    "charge": 96
+  },
+  {
+    "id": 9241,
+    "visit_id": 1097,
+    "cpt_code": "97530",
+    "units": 3,
+    "charge": 120
+  },
+  {
+    "id": 9242,
+    "visit_id": 1097,
+    "cpt_code": "97140",
+    "units": 1,
+    "charge": 52
+  },
+  {
+    "id": 9243,
+    "visit_id": 1098,
+    "cpt_code": "97110",
+    "units": 2,
+    "charge": 104
+  },
+  {
+    "id": 9244,
+    "visit_id": 1098,
+    "cpt_code": "97530",
+    "units": 3,
+    "charge": 156
+  },
+  {
+    "id": 9245,
+    "visit_id": 1098,
+    "cpt_code": "97140",
+    "units": 1,
+    "charge": 52
+  },
+  {
+    "id": 9246,
+    "visit_id": 1099,
+    "cpt_code": "97140",
+    "units": 1,
+    "charge": 52
+  },
+  {
+    "id": 9247,
+    "visit_id": 1099,
+    "cpt_code": "97110",
+    "units": 1,
+    "charge": 52
+  },
+  {
+    "id": 9248,
+    "visit_id": 1099,
+    "cpt_code": "97530",
+    "units": 3,
+    "charge": 96
+  },
+  {
+    "id": 9249,
+    "visit_id": 1100,
+    "cpt_code": "97140",
+    "units": 1,
+    "charge": 32
+  },
+  {
+    "id": 9250,
+    "visit_id": 1100,
+    "cpt_code": "97110",
+    "units": 3,
+    "charge": 120
+  }
+]
