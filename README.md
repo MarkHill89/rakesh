@@ -3,9 +3,7 @@
 Build a small single-page app that explores clinic performance and captures review notes. Choose **React** or **Angular**. **No backend.** All data is local.
 
 ## Constraints
-- Must run **offline** (no network calls).
-- **No external APIs/CDNs**; use only local files included in the repo.
-- Load data from local JSON (e.g., `data/*.json`) or imported modules.
+- Load data from local JSON (e.g., `data/*.json`).
 - Keep dependencies minimal (no heavy UI libraries).
 
 ## Data & Metrics
